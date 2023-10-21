@@ -1,2 +1,2 @@
-# side-projects
-Collection of side projects aimed at learning and exploring new technologies.
+# experiments
+Collection of small program aimed at learning and exploring new technologies.
